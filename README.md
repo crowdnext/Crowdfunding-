@@ -1,2 +1,2 @@
-# Crowdfunding-
-Crowdfunding on Blockchain
+# Crowdnext
+Crowd Venture Capital with Blockchain 
